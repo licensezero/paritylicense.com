@@ -1,0 +1,9 @@
+title: TODO
+url: https://TODO
+homepage: https://TODO
+image: https://TODO/logo-on-white.png
+exclude:
+  - CNAME
+  - README.md
+  - Gemfile
+  - Gemfile.lock
