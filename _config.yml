@@ -1,9 +1,12 @@
-title: TODO
-url: https://TODO
-homepage: https://TODO
-image: https://TODO/logo-on-white.png
+title: Parity Public License
+url: https://paritylicense.com
+homepage: https://paritylicense.com
+image: https://paritylicense.com/logo-on-white.png
 exclude:
   - CNAME
   - README.md
   - Gemfile
   - Gemfile.lock
+collections:
+  versions:
+    output: true

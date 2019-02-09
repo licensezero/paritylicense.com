@@ -1,0 +1,10 @@
+#logo {
+  width: 50%;
+}
+body > header {
+  text-align: center;
+}
+body > header > h1 {
+  margin: 0;
+  padding: 0;
+}
