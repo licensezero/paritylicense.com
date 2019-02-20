@@ -1,9 +1,9 @@
 {% include before.html %}
 <main>
   <h2>HTML</h2>
-  {{content}}
+  {{content | markdownify}}
 
   <h2>Plain Text</h2>
-  <pre>{{ page.content }}</pre>
+  <pre>{{ content }}</pre>
 </main>
 {% include after.html %}
