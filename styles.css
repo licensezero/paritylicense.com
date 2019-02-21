@@ -14,5 +14,5 @@ body > header > h1 {
 body > header,
 body > main,
 body > footer {
-  max-width: 40rem;
+  max-width: 30rem;
 }
