@@ -3,7 +3,7 @@ title: Diffs of the Parity Public License
 ---
 
 <ul>
-  {% for diff in site.diffs %}
+  {% for diff in site.diffs reversed %}
     <li>
       <a href="{{diff.url}}">{{diff.from}} v. {{diff.to}}</a>
     </li>
