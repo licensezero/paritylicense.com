@@ -22,3 +22,7 @@ body > footer {
   padding-top: 0.5rem;
   text-align: right;
 }
+
+pre {
+  font-size: 70%;
+}
