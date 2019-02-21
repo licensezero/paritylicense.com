@@ -11,3 +11,5 @@ exclude:
 collections:
   versions:
     output: true
+  diffs:
+    output: true

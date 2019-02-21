@@ -26,3 +26,17 @@ body > footer {
 pre {
   font-size: 70%;
 }
+
+ins {
+  color: darkgreen;
+  text-decoration: underline;
+}
+
+del {
+  color: darkred;
+  text-decoration: line-through;
+}
+
+ins.move, del.move {
+  color: darkorange;
+}
