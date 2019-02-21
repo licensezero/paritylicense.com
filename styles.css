@@ -16,3 +16,9 @@ body > main,
 body > footer {
   max-width: 30rem;
 }
+
+body > footer {
+  font-size: 80%;
+  padding-top: 0.5rem;
+  text-align: right;
+}
