@@ -7,7 +7,7 @@
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ site.url }}</link>
     <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
-    {% for version in site.versions limit:10 %}
+    {% for version in site.versions reversed %}
       <item>
         <title>{{ version.title | xml_escape }} {{ version.number | xml_escape }}</title>
         <link>{{ site.url }}{{ version.url }}</link>
