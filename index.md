@@ -9,6 +9,6 @@ In other words, Parity makes your work free for open source, like [GitHub](https
 
 The latest version is [{{ site.versions.last.number }}]({{ site.versions.last.url }}).
 
-[Old versions](/versions/) and [diffs](/diffs/) are available, as well.
+[Old versions](/versions) and [diffs](/diffs) are available, as well.
 
 Development continues in [the GitHub repository](https://github.com/licensezero/parity-public-license).
