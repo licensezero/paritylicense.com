@@ -48,3 +48,8 @@ table {
 th, td {
   background-color: white !important;
 }
+
+ul {
+  margin-left: 0;
+  padding-left: 1rem;
+}
