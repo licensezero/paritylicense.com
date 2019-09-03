@@ -3,6 +3,7 @@ title: License Zero
 description: a new way to support open software developers
 homepage: https://licensezero.com
 repository: https://github.com/licensezero/licensezero.com
+language: JavaScript
 developer:
   name: Artless Devices
   homepage: https://artlessdevices.com
