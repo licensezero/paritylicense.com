@@ -1,7 +1,7 @@
 ---
 title: Freckles
 description: Setup & configure everything. Everywhere. One command.
-homepage: https://freckles.io/#licensing
+homepage: https://freckles.io/
 repository: https://gitlab.com/freckles-io/freckles
 language: Python
 developer:
