@@ -1,0 +1,33 @@
+{% include before.html %}
+<main>
+  <h2>{{page.title}}</h2>
+  <table>
+    {% if page.homepage %}
+    <tr>
+      <th>Homepage</th>
+      <td><a href="{{page.homepage|escape}}">{{page.homepage}}</a></td>
+    </tr>
+    {% endif %}
+    {% if page.repository %}
+    <tr>
+      <th>Repository</th>
+      <td><a href="{{page.repository|escape}}">{{page.repository}}</a></td>
+    </tr>
+    {% endif %}
+    {% if page.developer.name %}
+    <tr>
+      <th>Developer</th>
+      <td><a href="{{page.developer.homepage|escape}}">{{page.developer.name}}</a></td>
+    </tr>
+    {% endif %}
+    {% if page.version %}
+    <tr>
+      <th>License</th>
+      <td><a href="/versions/{{page.version}}">Parity-{{page.version}}</a></td>
+    </tr>
+    {% endif %}
+  </table>
+  {{content | markdownify}}
+  <p><a href="/projects/">Browser other Parity-licensed projects.</a></p>
+</main>
+{% include after.html %}

@@ -13,3 +13,5 @@ collections:
     output: true
   diffs:
     output: true
+  projects:
+    output: true

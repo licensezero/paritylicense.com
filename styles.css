@@ -40,3 +40,11 @@ del {
 ins.move, del.move {
   color: darkorange;
 }
+
+table {
+  margin: 1rem 0;
+}
+
+th, td {
+  background-color: white !important;
+}
