@@ -14,6 +14,12 @@
       <td><a href="{{page.repository|escape}}">{{page.repository}}</a></td>
     </tr>
     {% endif %}
+    {% if page.language %}
+    <tr>
+      <th>Language</th>
+      <td>{{page.language}}</td>
+    </tr>
+    {% endif %}
     {% if page.developer.name %}
     <tr>
       <th>Developer</th>
