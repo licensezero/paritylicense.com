@@ -9,8 +9,8 @@ On this site, you can:
 
 - [Read the latest version of Parity](/versions/6.0.0.html) for yourself.
 
-- [Peruse a showcase](/projects/) of Parity-licensed projects.
+- [Peruse a showcase](/projects) of Parity-licensed projects.
 
-- Review [old versions](/versions/) of the license and [diffs](/diffs) between them.
+- Review [old versions](/versions) of the license and [diffs](/diffs) between them.
 
 License development continues in [the GitHub repository](https://github.com/licensezero/parity-public-license).  Feel free to open issues and send pull requests.
