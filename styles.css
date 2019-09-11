@@ -25,6 +25,8 @@ body > footer {
 
 pre {
   font-size: 70%;
+  overflow-x: scroll;
+  white-space: pre-wrap;
 }
 
 ins {
