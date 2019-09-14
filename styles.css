@@ -1,3 +1,173 @@
+html {
+  font-size: 2.0vw;
+}
+
+@media all and (min-width:1000px) {
+  html {
+    font-size: 20px;
+  }
+}
+
+@media all and (max-width:520px) {
+  html{
+    font-size: 14px;
+  }
+}
+
+html {
+  background-color: #fefefe;
+  font-family: sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: subpixel-antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -moz-font-feature-settings: "liga" on;
+  word-break: break-word;
+}
+
+body > header,
+body > nav,
+body > main,
+body > footer {
+  margin: 3rem auto;
+  max-width: 30rem;
+  padding: 0 1rem;
+  text-align: left;
+}
+
+body > footer {
+  border-top: 1px solid black;
+  margin-top: 5rem;
+  padding-top: 1rem;
+}
+
+a[href] {
+  color: #3344dd;
+}
+
+a[href]:hover,
+a[href]:focus,
+a[href]:active {
+  color: #bb1122;
+}
+
+a[href]:visited {
+  color: #884488;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.25;
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+}
+
+input, select, button {
+  padding: 0.5rem;
+}
+
+.success, .danger, .warning, .info {
+  border-radius: 0.25rem;
+  padding: 0.8rem;
+}
+
+.success {
+  background-color: #28a745;
+}
+
+.success, .success a[href]:link {
+  color: #fff;
+}
+
+.danger {
+  background-color: #dc3545;
+}
+
+.danger, .danger a[href]:link {
+  color: #fff;
+}
+
+.warning {
+  background-color: #ffc107;
+}
+
+.warning, .warning a[href]:link {
+  color: #343a40;
+}
+
+.info {
+  background-color: #17a2b8;
+}
+
+.info, .info a[href]:link {
+  color: white;
+}
+
+aside {
+  margin: 0.8rem 0;
+}
+
+dt {
+  font-style: italic;
+}
+
+dd {
+  margin: 0.8rem;
+}
+
+img {
+  max-width: 100%;
+}
+
+p, address, li {
+  margin: 0 0 0.8rem 0;
+}
+
+ul, ol {
+  margin-top: 0.8rem;
+}
+
+li > p {
+  margin-bottom: 0;
+}
+
+:target {
+  /*background-color: rgb(245, 255, 150);*/
+  position: relative;
+}
+
+:target:before {
+  content: '→';
+  font-weight: bold;
+  left: -2rem;
+  position: absolute;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+tbody th, tbody td {
+  padding: 0.8rem 0.5rem;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f2f2f2
+}
+
+th, th {
+  text-align: left;
+}
+
+.conspicuous {
+  font-style: italic;
+  font-weight: bold;
+}
+
+table, pre {
+  overflow-x: scroll;
+}
+
 #logo {
   width: 10rem;
 }
