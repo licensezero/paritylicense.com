@@ -1,6 +1,7 @@
 ---
 title: Diffs of the Parity Public License
 permalink: /diffs/index.html
+layout: default
 ---
 
 <ul>

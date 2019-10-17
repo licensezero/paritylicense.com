@@ -1,6 +1,7 @@
 ---
 title: The Parity Public License
 description: the free for open source license
+layout: default
 ---
 
 Parity is a public `LICENSE` for software that requires users who build with your software to share their work with the community, too.  In other words, Parity makes your work free for open source, like [GitHub](https://github.com), [Travis CI](https://travis-ci.com), and other services.

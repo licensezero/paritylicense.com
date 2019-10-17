@@ -1,6 +1,7 @@
 ---
 title: Versions of the Parity Public License
 permalink: /versions/index.html
+layout: default
 ---
 
 <ul>
