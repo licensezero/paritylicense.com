@@ -1,6 +1,6 @@
 ---
 title: The Parity Public License
-description: the free for open source license
+description: the free for open software license
 layout: default
 ---
 
