@@ -8,7 +8,7 @@ Parity is a public `LICENSE` for software that requires users who build with you
 
 On this site, you can:
 
-- [Read the latest version of Parity](/versions/6.0.0.html) for yourself.
+- [Read the latest version of Parity](/versions/7.0.0.html) for yourself.
 
 - [Peruse a showcase](/projects) of Parity-licensed projects.
 
