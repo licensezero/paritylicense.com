@@ -29,7 +29,7 @@
     {% if page.version %}
     <tr>
       <th>License</th>
-      <td><a href="/versions/{{page.version}}">Parity-{{page.version}}</a></td>
+      <td><a href="/versions/{{page.version}}.html">Parity-{{page.version}}</a></td>
     </tr>
     {% endif %}
   </table>
@@ -37,7 +37,5 @@
   {% if page.description %}<p>{{page.description}}</p>{% endif %}
 
   {{content | markdownify}}
-
-  <p><a href="/projects">Browser other Parity-licensed projects.</a></p>
 </main>
 {% include after.html %}
