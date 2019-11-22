@@ -16,7 +16,7 @@ layout: default
   {% endfor %}
 </ul>
 
-<p>To list your project, send a pull request <a href="https://github.com/licensezero/paritylicense.com/issues">via GitHub</a>.</p>
+<p>To list your project, send a pull request <a href="https://github.com/licensezero/paritylicense.com">via GitHub</a>.</p>
 
 <h2 id=development>Development</h2>
 
