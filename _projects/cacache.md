@@ -1,6 +1,6 @@
 ---
 title: cacache
-description: a high-performance, concurrent, content-addressable disk cache.
+description: a high-performance, concurrent, content-addressable disk cache
 repository: https://github.com/zkat/cacache-rs
 language: Rust
 developer:
