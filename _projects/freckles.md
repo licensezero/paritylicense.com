@@ -1,6 +1,6 @@
 ---
 title: Freckles
-description: Setup & configure everything. Everywhere. One command.
+description: set up and configure everything, everywhere, with one command
 homepage: https://freckles.io/
 repository: https://gitlab.com/freckles-io/freckles
 language: Python
