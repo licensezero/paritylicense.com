@@ -30,10 +30,18 @@ body > header,
 body > nav,
 body > main,
 body > footer {
-  margin: 3rem auto;
+  margin: 2rem auto;
   max-width: 30rem;
   padding: 0 1rem;
   text-align: left;
+}
+
+body > header {
+  margin-bottom: 1rem;
+}
+
+body > main {
+  margin-top: 1rem;
 }
 
 body > footer {
@@ -224,4 +232,30 @@ th, td {
 ul {
   margin-left: 0;
   padding-left: 1rem;
+}
+
+.download {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+a.button[href] {
+  background-color: #28a745;
+  border-color: #28a745;
+  border-radius: 1ex;
+  border: 1px solid green;
+  color: white;
+  cursor: pointer;
+  display: inline-block;
+  margin: 0 auto;
+  padding: 1ex 1.5ex;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+}
+
+a.button:hover {
+  background-color: #218838;
+  border-color: #218838;
+  color: white;
 }
