@@ -8,6 +8,8 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  - deploy
+  - CODEOWNERS
 collections:
   versions:
     output: true
