@@ -4,7 +4,9 @@ description: the free for open software license
 layout: default
 ---
 
-<div class="download"><a class="button" href="/7.0.0.md" download="LICENSE.md">Download <code>LICENSE.md</code> For Your Project</a></div>
+<div class="centered"><a class="button" href="/7.0.0.md" download="LICENSE.md">Download <code>LICENSE.md</code> For Your Project</a></div>
+
+<div class="centered"><a class="button" href="/versions/7.0.0">Read the Latest Version Online</a></div>
 
 [Parity](versions/7.0.0.html) is a public `LICENSE` for software that requires users who build with your software to share their work with the community, too.  In other words, Parity makes your work free for open source, like [GitHub](https://github.com), [Travis CI](https://travis-ci.com), and other services.
 
