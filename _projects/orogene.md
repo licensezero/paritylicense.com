@@ -6,7 +6,7 @@ language: Rust
 developer:
   name: Orogene Collaborative
   homepage: https://github.com/orogene
-version: 7.0.0
+license_version: 7.0.0
 layout: project
 date: 2020-07-30
 ---

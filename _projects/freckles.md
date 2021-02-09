@@ -7,7 +7,7 @@ language: Python
 developer:
   name: Markus Binsteiner
   homepage: https://gitlab.com/makkus
-version: 6.0.0
+license_version: 6.0.0
 layout: project
 date: 2019-09-03
 ---

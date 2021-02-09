@@ -6,7 +6,7 @@ language: JavaScript
 developer:
   name: Typicode
   homepage: https://github.com/typicode
-version: 7.0.0
+license_version: 7.0.0
 layout: project
 date: 2021-02-09
 ---

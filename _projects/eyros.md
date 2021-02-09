@@ -6,7 +6,7 @@ language: Rust
 developer:
   name: James "substack" Halliday
   homepage: https://substack.net
-version: 6.0.0
+license_version: 6.0.0
 layout: project
 date: 2020-02-26
 ---

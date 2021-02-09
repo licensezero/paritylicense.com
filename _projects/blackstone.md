@@ -6,7 +6,7 @@ language: Solidity
 developer:
   name: Monax
   homepage: https://monax.io
-version: 6.0.0
+license_version: 6.0.0
 layout: project
 date: 2019-09-03
 ---

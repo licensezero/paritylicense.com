@@ -7,7 +7,7 @@ language: JavaScript
 developer:
   name: Artless Devices
   homepage: https://artlessdevices.com
-version: 6.0.0
+license_version: 6.0.0
 layout: project
 date: 2019-09-01
 ---
